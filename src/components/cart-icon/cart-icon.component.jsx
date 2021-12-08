@@ -4,7 +4,7 @@ import { connect } from "react-redux";
 
 import { toggleCartHidden } from "../../redux/cart/cart.actions";
 
-import { ReactComponent as ShoppingIcon  } from '/home/sanjuli/dev/projects/crwn-clothing/src/assets/11.2 shopping-bag.svg';
+import { ReactComponent as ShoppingIcon  } from '../../assets/11.2 shopping-bag.svg';
 import { createStructuredSelector } from "reselect";
 import './cart-icon.styles.scss';
 //import CartItem from "../cart-item/cart-item.component";
