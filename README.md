@@ -1,13 +1,14 @@
 # FLANNEL-CLOTHING
 
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)]
+[![Open Source Love svg1] (https://badges.frapsoft.com/os/v1/open-source.svg?v=103)]
 (https://github.com/sanjuli18/E-commerce-website)
 <br/>
+
 Full Stack E-Commerce App built with React, using Firebase and Stripe API, deployed with Heroku.
 
 To view the app, visit: https://flannel-clothing.herokuapp.com/
 
-!homepage (https://user-images.githubusercontent.com/63923966/145205171-6c4a8c72-a271-480e-a02a-4d6877aaa904.png)
+![homepage] (https://user-images.githubusercontent.com/63923966/145205171-6c4a8c72-a271-480e-a02a-4d6877aaa904.png)
 
 ## Table of Contents
 
